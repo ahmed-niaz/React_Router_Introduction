@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "age": 28,
+    "membershipType": "Premium",
+    "featuresUsed": [
+      "Personal trainer sessions",
+      "Premium equipment",
+      "Group fitness classes"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "age": 35,
+    "membershipType": "Standard",
+    "featuresUsed": [
+      "Group fitness classes",
+      "Access to weightlifting equipment",
+      "Locker room access"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "age": 40,
+    "membershipType": "Basic",
+    "featuresUsed": [
+      "Access to cardio machines",
+      "Access to weightlifting equipment",
+      "Locker room access"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "David",
+    "age": 32,
+    "membershipType": "Premium",
+    "featuresUsed": [
+      "Personal trainer sessions",
+      "Premium equipment",
+      "Group fitness classes"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Emma",
+    "age": 26,
+    "membershipType": "Standard",
+    "featuresUsed": [
+      "Group fitness classes",
+      "Access to weightlifting equipment",
+      "Locker room access"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Frank",
+    "age": 38,
+    "membershipType": "Basic",
+    "featuresUsed": [
+      "Access to cardio machines",
+      "Access to weightlifting equipment",
+      "Locker room access"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Grace",
+    "age": 31,
+    "membershipType": "Premium",
+    "featuresUsed": [
+      "Personal trainer sessions",
+      "Premium equipment",
+      "Group fitness classes"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Henry",
+    "age": 29,
+    "membershipType": "Standard",
+    "featuresUsed": [
+      "Group fitness classes",
+      "Access to weightlifting equipment",
+      "Locker room access"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Isabel",
+    "age": 36,
+    "membershipType": "Basic",
+    "featuresUsed": [
+      "Access to cardio machines",
+      "Access to weightlifting equipment",
+      "Locker room access"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Jack",
+    "age": 33,
+    "membershipType": "Premium",
+    "featuresUsed": [
+      "Personal trainer sessions",
+      "Premium equipment",
+      "Group fitness classes"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Kate",
+    "age": 27,
+    "membershipType": "Standard",
+    "featuresUsed": [
+      "Group fitness classes",
+      "Access to weightlifting equipment",
+      "Locker room access"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Leo",
+    "age": 39,
+    "membershipType": "Basic",
+    "featuresUsed": [
+      "Access to cardio machines",
+      "Access to weightlifting equipment",
+      "Locker room access"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Mia",
+    "age": 30,
+    "membershipType": "Premium",
+    "featuresUsed": [
+      "Personal trainer sessions",
+      "Premium equipment",
+      "Group fitness classes"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Nathan",
+    "age": 34,
+    "membershipType": "Standard",
+    "featuresUsed": [
+      "Group fitness classes",
+      "Access to weightlifting equipment",
+      "Locker room access"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Olivia",
+    "age": 37,
+    "membershipType": "Basic",
+    "featuresUsed": [
+      "Access to cardio machines",
+      "Access to weightlifting equipment",
+      "Locker room access"
+    ]
+  }
+]

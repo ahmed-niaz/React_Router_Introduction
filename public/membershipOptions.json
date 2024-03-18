@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "name": "Basic",
+      "price": 29.99,
+      "description": "Access to basic gym facilities",
+      "features": [
+        "Access to cardio machines",
+        "Access to weightlifting equipment",
+        "Locker room access"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard",
+      "price": 49.99,
+      "description": "Access to standard gym facilities plus group classes",
+      "features": [
+        "All Basic features",
+        "Access to group fitness classes",
+        "Yoga and Pilates classes"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium",
+      "price": 79.99,
+      "description": "Access to premium gym facilities, group classes, and personal trainer sessions",
+      "features": [
+        "All Standard features",
+        "Access to premium equipment",
+        "Personal trainer sessions (limited)"
+      ]
+    }
+  ]
+  
